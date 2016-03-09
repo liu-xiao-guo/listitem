@@ -1,0 +1,17 @@
+{
+    "name": "listitem.liu-xiao-guo",
+    "description": "description of ListItem",
+    "architecture": "all",
+    "title": "ListItem",
+    "hooks": {
+        "ListItem": {
+            "apparmor": "ListItem.apparmor",
+            "desktop":  "ListItem.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
